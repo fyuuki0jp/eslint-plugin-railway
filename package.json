@@ -1,6 +1,6 @@
 {
   "name": "@fyuuki0jp/eslint-plugin-railway",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "ESLint plugin to enforce Railway Oriented Programming patterns with Result types",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
     "railway-oriented-programming",
     "functional-programming"
   ],
-  "author": "Your Name",
+  "author": "fyuuki0jp",
   "license": "MIT",
   "devDependencies": {
     "@typescript-eslint/parser": "^6.0.0",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/eslint-plugin-railway.git"
+    "url": "https://github.com/fyuuki0jp/eslint-plugin-railway.git"
   },
   "bugs": {
-    "url": "https://github.com/your-org/eslint-plugin-railway/issues"
+    "url": "https://github.com/fyuuki0jp/eslint-plugin-railway/issues"
   },
-  "homepage": "https://github.com/your-org/eslint-plugin-railway#readme"
+  "homepage": "https://github.com/fyuuki0jp/eslint-plugin-railway#readme"
 }
